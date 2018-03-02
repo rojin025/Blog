@@ -8,11 +8,11 @@ body {
   margin: 20px auto;
   max-width: 800px;
   border-radius: 40px;
-}
 
+}
 .date {
   letter-spacing: 2px;
-  font-weight: bolder;
+  font-weight: lighter;
   text-transform: uppercase;
   font-size: 2em;
 }
@@ -24,8 +24,9 @@ hr {
   border: 0;
   height: 1px;
   background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  background-image: linear-gradient(to right, #ccc, #159ab0, #ccc);
 }
 .blog {
   margin-bottom: 20px;
+  margin: auto 8%;
 }
