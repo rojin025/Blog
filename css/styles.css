@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Krona+One|Raleway');
-
 body {
-  border: 20px solid grey;
   font-family: Raleway;
-  width: 80%;
-}
+  margin: 80%;
 
+}
 .date {
   letter-spacing: 2px;
 }
